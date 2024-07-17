@@ -27,3 +27,8 @@ Underline 2
 - Esto es un Iten de lista desordenada.
 - Esto es un Iten de lista desordenada.
 - Esto es un Iten de lista desordenada.
+
+# Links
+- <a href="http://www.google.com">Esto es un link HTML</a>
+- [Esto es un link en Markdown](http://www.google.com)
+- [Esto es un link al index](index.html)
